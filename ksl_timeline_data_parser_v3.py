@@ -65,7 +65,7 @@ def csv2json(infile, outfile):
     title_slide_text = {}
     title_slide_text['headline'] = 'Key Sounds Label Timeline'
     title_slide_text['text'] = '<p><a href=\"https://github.com/goodbest/KeySoundsLabel\">Click here to contribute</a><br/><br/>' \
-        'Last update: 2017/12<br/>webpage made by <a href=\"https://twitter.com/lovegoodbest\">goodbest</a><br/>' \
+        'Last update: 2018/10<br/>webpage made by <a href=\"https://twitter.com/lovegoodbest\">goodbest</a><br/>' \
         'Special Thanks to KSLU group</p><br/>*All dates are album\'s first release date'
     title_slide['text'] = title_slide_text
     
